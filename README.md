@@ -29,3 +29,15 @@ source .venv/bin/activate
 ```sh
 poetry install
 ```
+
+## Run migrations
+
+```sh
+python manage.pr migrate
+```
+
+## Run server
+
+```sh
+python manage.py runserver
+```
