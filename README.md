@@ -41,3 +41,10 @@ python manage.pr migrate
 ```sh
 python manage.py runserver
 ```
+
+## ruff
+
+```sh
+python -m ruff format
+python -m ruff check --fix
+```
