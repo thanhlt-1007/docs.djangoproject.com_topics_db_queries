@@ -21,6 +21,6 @@ b.save()
 
 - The **save()** nethod has no return value.
 
-> [!See also]
+> [!Note]
 >
-> save() takes a number of advanced options not described here. See the document for save() for complete details. To create and save an object in a single step, use the create() method.
+> **save()** takes a number of advanced options not described here. See the document for **[save()](https://docs.djangoproject.com/en/5.1/ref/models/instances/#django.db.models.Model.save)** for complete details. To create and save an object in a single step, use the **[create()](https://docs.djangoproject.com/en/5.1/ref/models/querysets/#django.db.models.query.QuerySet.create)** method.
